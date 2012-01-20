@@ -1,0 +1,17 @@
+= GemGit
+
+Thanks to: https://github.com/codeodor/gem-install-from-git
+for inspiring me.
+
+== Install
+
+gem install gem-git
+
+== Usage
+
+gem-git <path_to_repo>
+
+== Example
+
+gem-git https://github.com/Deradon/jquery-iframe_auto_resize.git
+
