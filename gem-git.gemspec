@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = GemGit::VERSION
   s.authors     = ["Patrick Helm"]
   s.email       = ["deradon87@gmail.com"]
-  s.homepage    = "http://www.deckel-gesucht.de"
+  s.homepage    = "https://github.com/Deradon/gem-git"
   s.summary     = "Install rubygems from git repository"
   s.description = "Simple ruby script to install a gem located in a git repository."
 
